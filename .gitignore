@@ -1,0 +1,17 @@
+# Vivado log and journal files
+*.log
+*.jou
+*.pb
+*.str
+*.backup.jou
+*.backup.log
+dfx_runtime.txt
+
+# Vivado generated folders
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/

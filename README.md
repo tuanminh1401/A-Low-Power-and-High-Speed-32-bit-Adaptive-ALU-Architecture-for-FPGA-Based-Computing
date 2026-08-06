@@ -16,3 +16,11 @@
 
 !\[Circuit Diagram](assets/circuit\_diagram.png)
 
+
+
+\## Documentation \& Paper
+
+
+
+📄 Read the full research paper here: \[Adaptive ALU Research Paper](docs/Adaptive\_ALU\_Paper.pdf)
+

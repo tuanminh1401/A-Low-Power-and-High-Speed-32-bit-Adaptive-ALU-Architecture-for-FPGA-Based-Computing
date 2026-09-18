@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sat Sep 19 00:39:33 2026
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : alu_goc_benchmark
+Top-level Entity Name : alu_goc_wrapper
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Power Models : Final
+Total Thermal Power Dissipation : 371.00 mW
+Core Dynamic Thermal Power Dissipation : 47.38 mW
+Core Static Thermal Power Dissipation : 99.21 mW
+I/O Thermal Power Dissipation : 224.41 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

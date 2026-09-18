@@ -1,17 +1,13 @@
-# Vivado log and journal files
-*.log
-*.jou
-*.pb
-*.str
-*.backup.jou
-*.backup.log
-dfx_runtime.txt
+# EDA temporary databases
+db/
+incremental_db/
+work/
+transcript
 
-# Vivado generated folders
-.Xil/
-*.cache/
-*.hw/
-*.ip_user_files/
-*.runs/
-*.sim/
-*.gen/
+# Simulation waveforms (>100MB)
+*.vcd
+sim/*.vcd
+*.saif
+
+# Quartus user settings
+*.qws
